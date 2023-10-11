@@ -1,0 +1,57 @@
+*{
+    font-family: 'Kaisei HarunoUmi', serif; 
+}
+.login{
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(192, 192, 243, 0.381);
+    
+}
+.budget{
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 189, 0.405);
+    color: white;
+}
+h1{
+    font-weight: bold;
+    
+}
+h2{
+    font-weight: bold;
+}
+h3{
+    font-weight: bold;
+}
+input{
+    background-color: transparent;
+    border: 0;
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    padding: 10px 20px;
+    letter-spacing: 1px;
+    border-bottom: 2px solid gray;
+    outline: 0;
+}
+.navbar{
+    background-color: aliceblue;
+    font-size: 25px;
+}
+.navbar a{
+    font-size: 25px;
+    font-weight: bold;
+}
+a{
+    font-size: 18px;
+    font-weight: 500;
+}
+footer{
+    background-color: aliceblue;
+    color: rgb(30, 51, 188);
+}
+footer a{
+    color: rgb(30, 51, 188);
+}
+
+
